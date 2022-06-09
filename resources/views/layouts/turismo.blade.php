@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" href="{{ URL::asset('../img/amanalco_ico.ico') }}" type="image/x-icon"/>
+    <link rel="icon" href="{{ URL::asset('turismo/img/amanalco_ico.ico') }}" type="image/x-icon"/>
 
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
@@ -41,11 +41,14 @@
     <!--<script src="{{ asset('js/app.js') }}"></script>-->
 
 </head>
+
+<!--imagen responsiva en app, apps y inicio .blade
+
 <body>
     <div id="app">
         </br>
                 <div class=" " align="center">
-                <!--imagen responsiva en app, apps y inicio .blade-->
+                
                     <img class="img-responsive"   src={{asset('../img/header-img02.jpg')}} display="block" margin="0 auto" max-width="100%" width="80%" >
                     
                 </div>
@@ -64,7 +67,7 @@
             @yield('content')
         </main>
     </div>
-
+-->
 
     
 <!--ESTO ES EL APARTADO DEL FOOTER -->

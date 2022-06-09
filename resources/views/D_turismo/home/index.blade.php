@@ -58,8 +58,8 @@
           <li><a href="#team">Restaurantes</a></li>
           <li class="drop-down"><a href="">Actividades</a>
             <ul>
-              <li><a href="#">Drop Down 1</a></li>
-              <li class="drop-down"><a href="#">Drop Down 2</a>
+              <li><a href="#">Caminata</a></li>
+              <li class="drop-down"><a href="#">Camping</a>
                 <ul>
                   <li><a href="#">Deep Drop Down 1</a></li>
                   <li><a href="#">Deep Drop Down 2</a></li>
@@ -68,9 +68,9 @@
                   <li><a href="#">Deep Drop Down 5</a></li>
                 </ul>
               </li>
-              <li><a href="#">Drop Down 3</a></li>
-              <li><a href="#">Drop Down 4</a></li>
-              <li><a href="#">Drop Down 5</a></li>
+              <li><a href="#">Ciclismo</a></li>
+              <li><a href="#">Cabalgata</a></li>
+              <li><a href="#">Senderismo</a></li>
             </ul>
           </li>
           <li><a href="#footer">Contactanos</a></li>
@@ -94,7 +94,7 @@
         </div>
   
         <div class="col-md-6 intro-img order-md-last order-first">
-          <img src="turismo/img/intro-img.svg" alt="" class="img-fluid">
+          <img src="turismo/img/turismo_home02.png" alt="" class="img-fluid">
         </div>
       </div>
 
@@ -114,7 +114,7 @@
 
           <div class="col-lg-5 col-md-6">
             <div class="about-img">
-              <img src="turismo/img/about-img.jpg" alt="">
+              <img src="turismo/img/acerca_01.jpg" alt="">
             </div>
           </div>
 
