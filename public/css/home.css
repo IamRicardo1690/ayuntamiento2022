@@ -1,0 +1,103 @@
+@import url(https://fonts.googleapis.com/css?family=Nunito);@charset "UTF-8";
+
+/*!
+ * Bootstrap v4.5.0 (https://getbootstrap.com/)
+ * Copyright 2011-2020 The Bootstrap Authors
+ * Copyright 2011-2020 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+:root {
+  --blue: #3490dc;
+  --indigo: #6574cd;
+  --purple: #9561e2;
+  --pink: #f66d9b;
+  --red: #e3342f;
+  --orange: #f6993f;
+  --yellow: #ffed4a;
+  --green: #38c172;
+  --teal: #4dc0b5;
+  --cyan: #6cb2eb;
+  --white: #fff;
+  --gray: #6c757d;
+  --gray-dark: #343a40;
+  --primary: #3490dc;
+  --secondary: #6c757d;
+  --success: #38c172;
+  --info: #6cb2eb;
+  --warning: #ffed4a;
+  --danger: #e3342f;
+  --light: #f8f9fa;
+  --dark: #343a40;
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+  --font-family-sans-serif: "Nunito", sans-serif;
+  --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+
+
+/*esto es la imagen de fondo del lago de corrar de piedra*/
+body{  
+  margin: 0;
+  min-height: 100vh;
+  /*background-image: url("/img/corral-de-piedra.jpg");*/
+  background-color: #f6f6f6;
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+}
+
+p {
+  margin-top: 0;
+  margin-bottom: 1rem;
+  font-size: 15px;
+}
+
+.jumbotron {
+  background-color: #f4511e;
+  color: #fff;
+  padding: 100px 25px;
+}
+
+.bg-grey {
+  background-color: #f6f6f6;
+}
+.logo-small {
+  color: #f4511e;
+  font-size: 50px;
+}
+.logo {
+  color: #f4511e;
+  font-size: 200px;
+}
+@media screen and (max-width: 768px) {
+  .col-sm-4 {
+    text-align: center;
+    margin: 25px 0;
+  }
+}
+.bg-1 {
+  content: ""; 
+  /*background-color: #08463c95;*/
+  /*color: #0a0a0a;*/
+  background: linear-gradient(90deg, #52c4df, #ad55c1);
+  opacity: 0.5;
+
+}
+
+.bg-2 { 
+  background-color: #0f383db9;
+  color: #ffffff;
+}
+.bg-2 p { 
+  font-size: 20px;
+}
+.container-fluid {
+  padding-top: 40px;
+  padding-bottom: 50px;
+}
+
