@@ -120,7 +120,7 @@
 
           <div class="col-lg-7 col-md-6">
             <div class="about-content">
-              <h2>About Us</h2>
+              <h2>Acerca del Turismo en Amanalco</h2>
               <h3>Odio sed id eos et laboriosam consequatur eos earum soluta.</h3>
               <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
               <p>Aut dolor id. Sint aliquam consequatur ex ex labore. Et quis qui dolor nulla dolores neque. Aspernatur consectetur omnis numquam quaerat. Sed fugiat nisi. Officiis veniam molestiae. Et vel ut quidem alias veritatis repudiandae ut fugit. Est ut eligendi aspernatur nulla voluptates veniam iusto vel quisquam. Fugit ut maxime incidunt accusantium totam repellendus eum error. Et repudiandae eum iste qui et ut ab alias.</p>
@@ -144,7 +144,7 @@
       <div class="container">
 
         <header class="section-header">
-          <h3>Services</h3>
+          <h3>Servicios Turisticos</h3>
           <p>Laudem latine persequeris id sed, ex fabulas delectus quo. No vel partiendo abhorreant vituperatoribus.</p>
         </header>
 
